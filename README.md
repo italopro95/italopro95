@@ -1,8 +1,8 @@
-👋  OLÁ, ME CHAMO ÍTALO.
+👋  OLÁ, ME CHAMO JOÃO ÍTALO.
 
-👨‍💻  Atualmente Estudo HTML5,  CSS3 e JavaScript.
+👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz), e trabalho em uma empresa que faz parte da multinacional Compass UOL.
 
-👨‍🎓  Graduando em Matemática Computacional.
+👨‍🎓  Graduando em Engenheria Elétrica.
         
 
 ##
