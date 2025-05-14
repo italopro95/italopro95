@@ -1,24 +1,9 @@
-   <div style="margin-left: 40px; margin-right: 40px;">
-       <p> 👋 OLÁ, ME CHAMO JOÃO ÍTALO.</p>
-    </div>
+👋  OLÁ, ME CHAMO ÍTALO.
 
+👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),
+     <p style="margin-left: 30px;">e trabalho em uma empresa que faz parte da multinacional Compass UOL.</p>
 
-   <p>
-        👨‍💻  <div style="margin-left: 40px; margin-right: 40px;"> 
-                Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),
-                e trabalho em uma empresa que faz parte da multinacional Compass UOL.  
-             </div>
-   </p>
-
-
- <div style="margin-left: 40px; margin-right: 40px;">
-     👨‍🎓   <p>Graduando em Matemática Computacional.</p>
-    </div>
-
-
-
-
-
+👨‍🎓  Graduando em Matemática Computacional.
 
 
 ##
@@ -46,4 +31,4 @@
 
  ![Snake animation](https://github.com/italopro95/italopro95/blob/output/github-contribution-grid-snake.svg)
 
-</div>        
+</div>    
