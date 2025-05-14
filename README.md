@@ -3,7 +3,7 @@
 👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz).
          Atualmente trabalho em uma empresa que faz parte da multinacional Compass UOL.
 
-👨‍🎓  Graduando em Matemática Computacional.
+👨‍🎓  Graduando em Engenharia Elétrica.
 
 
 ##
