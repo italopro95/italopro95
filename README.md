@@ -1,6 +1,6 @@
 👋  OLÁ, ME CHAMO JOÃO ÍTALO.
 
-👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz).
+👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL, visualização (DataViz) e analise preditiva  de dados com uso de ferramentas de inteligência artificial como o Einstein Discovery da Salesforce.
          Atualmente trabalho em uma empresa que faz parte da multinacional Compass UOL.
 
 👨‍🎓  Graduando em Engenharia Elétrica.
