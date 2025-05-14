@@ -1,10 +1,20 @@
-  <p>👋 OLÁ, ME CHAMO JOÃO ÍTALO.</p>
-  
-  <p>💻 Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),<br>
-         e trabalho em uma empresa que faz parte da multinacional Compass UOL.</p>
-  
-  <p>🎓 Graduando em Engenharia Elétrica.</p>
-        
+ <table>
+    <tr>
+      <td>👋</td>
+      <td><strong>OLÁ, ME CHAMO JOÃO ÍTALO.</strong></td>
+    </tr>
+    <tr>
+      <td>💻</td>
+      <td>
+        Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),<br>
+        e trabalho em uma empresa que faz parte da multinacional Compass UOL.
+      </td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>Graduando em Engenharia Elétrica.</td>
+    </tr>
+  </table>
         
 
 ##
