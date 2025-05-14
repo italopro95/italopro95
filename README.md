@@ -3,12 +3,12 @@
     </div>
 
 
-  
+   <p>
         👨‍💻  <div style="margin-left: 40px; margin-right: 40px;"> 
                 Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),
                 e trabalho em uma empresa que faz parte da multinacional Compass UOL.  
              </div>
-   
+   </p>
 
 
  <div style="margin-left: 40px; margin-right: 40px;">
