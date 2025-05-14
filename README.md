@@ -1,7 +1,7 @@
 👋  OLÁ, ME CHAMO ÍTALO.
 
-👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz),
-     <div style="margin-left: 100px;">e trabalho em uma empresa que faz parte da multinacional Compass UOL.</div>
+👨‍💻  Sou Engenheiro de Dados, especializado em integração de dados, processos ETL e visualização de dados (DataViz).
+         Atualmente trabalho em uma empresa que faz parte da multinacional Compass UOL.
 
 👨‍🎓  Graduando em Matemática Computacional.
 
